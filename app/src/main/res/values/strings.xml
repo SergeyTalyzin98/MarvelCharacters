@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comic books</string>
+    <string name="text_search">search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
